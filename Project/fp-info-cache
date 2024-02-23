@@ -1,4 +1,4 @@
-23083592122951752
+23085299712271724
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96123,6 +96123,13 @@ MX_ALPS_PG1350_noLed_1.75u
 0
 11
 2
+kbd
+NeoPixel_bulb_5mm_Adafruit_1938
+
+
+0
+4
+4
 kbd
 OLED
 Connecteur 6 pins
