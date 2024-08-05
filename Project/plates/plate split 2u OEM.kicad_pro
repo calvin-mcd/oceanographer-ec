@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "plate split 2u OEM.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
