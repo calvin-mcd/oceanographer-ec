@@ -5,7 +5,7 @@ Each layout requires its own respective plate. The plate files can be found in t
 
 ## Layout
 
-![](https://github.com/calvin-mcd/toprevan/blob/main/Images/KLE.png)
+![](https://github.com/calvin-mcd/oceanographer-ec/blob/main/Images/KLE.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/06cea779d76d209e57f1c44d0aa36c97)
 
