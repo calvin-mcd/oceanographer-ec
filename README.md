@@ -1,21 +1,43 @@
 # oceanographer-ec
- oceanographer ec pcb
 
+This is a EC (topre) pcb for Hedgey's [oceanographer](https://geekhack.org/index.php?topic=114413.0) keyboard. The pcb supports both a 625U spacebar and a split 275U, 225U spacebar configuration, an Oled and rotary encoder.
+Each layout requires its own respective plate. The plate files can be found in the production folder.
 
- http://www.keyboard-layout-editor.com/#/gists/06cea779d76d209e57f1c44d0aa36c97
+## Layout
 
+![](https://github.com/calvin-mcd/toprevan/blob/main/Images/KLE.png)
 
+[Link](http://www.keyboard-layout-editor.com/#/gists/06cea779d76d209e57f1c44d0aa36c97)
 
-["0,0","0,1","0,2","0,3","0,4","0,5","0,6","0,7","0,8","0,9","0,10",{w:1.75},"0,11"],
-[{w:1.25},"1,0","1,1","1,2","1,3","1,4","1,5","1,6","1,7","1,8","1,9","1,10",{w:1.5},"1,11"],
-[{w:1.75},"2,0","2,1","2,2","2,3","3,4","2,5","2,6","2,7","2,8","2,9","2,10","2,11"],
-["3,0","3,1","3,2",{w:6.25},"3,5\n\n\n0,0","3,8",{x:0.5},"3,9","3,10","3,11"],
-[{x:3,w:1.25},"3,3\n\n\n0,1",{w:2.25},"3,4\n\n\n0,1",{w:2.75},"3,7\n\n\n0,1"]
+## Firmware
 
+The basic EC firmware is ready to go and the source code is provided for tweaking any settings.
 
+## Plates & Hardware
 
-["0,0","0,1","0,2","0,3","0,4","0,5","0,6","0,7","0,8","0,9","0,10",{w:1.75},"0,11"],
-[{w:1.25},"1,0","1,1","1,2","1,3","1,4","1,5","1,6","1,7","1,8","1,9","1,10",{w:1.5},"1,11"],
-[{w:1.75},"2,0","2,1","2,2","2,3","3,4","2,5","2,6","2,7","2,8","2,9","2,10","2,11","4,0","0,0\n\n\n\n\n\n\n\n\ne","0,1\n\n\n\n\n\n\n\n\ne"],
-["3,0","3,1","3,2",{w:6.25},"3,5\n\n\n0,0","3,8",{x:0.5},"3,9","3,10","3,11"],
-[{x:3,w:1.25},"3,3\n\n\n0,1",{w:2.25},"3,4\n\n\n0,1",{w:2.75},"3,7\n\n\n0,1"]
+Plate files are available for OEM (original and deskey housings).
+
+Furthermore, you will need 25x 10mm M2 screws and M2 nuts to assemble the pcb. 
+
+## Disclaimer
+
+This PCB has been fully tested and is confirmed to work. However, no-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Feel free to edit, modify and otherwise utilise these files.
+
+## License
+
+Shield: [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Credits
+
+This is a commission for darth_foster.
+
+big thanks to petejohanson for feedback and help!
+
+Furthermore, many thanks for feedback, help, references go to Sporkus, Cipulot\#8455 & matthewdias\#2671.
+
+Any questions, contact Calvin0563 on Discord. 
